@@ -1,0 +1,16 @@
+This is the traditional game of hangman.
+Your objective, as the potential
+'hangee,' is to guess which letters are
+contained in a mystery word, whose
+category is determined by you and whose
+length and irregular punctuation are
+known. If you guess a letter which is in
+the word, all occurences of that letter
+will be revealed, and the game will
+continue. Should the letter not be
+present, one of your body parts will
+appear on the gallows. Once your entire
+body (six parts) appears, you are hanged
+and the game is over. Should you
+successfully guess all letters in the
+word before being hanged, you have won!

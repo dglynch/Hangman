@@ -1,0 +1,5 @@
+HANGMAN
+
+Copyright (C) 1998 by Dan Lynch
+
+My Hangman program requires only hangman.exe and hangman.dat to run. The subdirectories on the disk and the files contained therein are for informational purposes only. In order to run the program you must use a Windows 95 computer, or any computer with CWSDPMI installed. To fully appreciate it, the computer must have a sound card and speakers -- preferably better than the ones at school. Every once in a while my program will crash a computer at school, but not mine at home. I attribute this to the crappiness of the school computers, not my program, and I hope that you agree. I would have included Autodesk Animator animations in my program except that I can't get the palettes to work properly. I hope to have a solution to this before my next project.
